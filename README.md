@@ -7,4 +7,9 @@ References:
 
 
 
-Slot1: 
+Slot1: 18th August to 21st August
+      Alloted Work: 1. Paper1 and Paper2.
+                    2. Upconv.
+                    3. Unet.
+                    4. Merge Layers.
+                    5. All videos.
