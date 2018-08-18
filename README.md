@@ -4,6 +4,10 @@
 2. Converting 1080P video to 4K video.
 
 ### References:
+- Main Github Repo:
+  1. https://github.com/neil454/deep-motion
+- Related Paper:
+  1. 
 - Video:
   1. https://www.youtube.com/watch?v=RWaWoQWI4ks
 - U-Net:
