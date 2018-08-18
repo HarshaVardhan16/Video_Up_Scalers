@@ -17,9 +17,9 @@
 
 
 ### Slot1: 18th August to 21st August
-1.Alloted Work: 
-  1. Paper1 and Paper2.
-  2. Upconv.
-  3. Unet.
-  4. Merge Layers.
-  5. All videos.
+1. Alloted Work: 
+   1. Paper1 and Paper2.
+   2. Upconv.
+   3. Unet.
+   4. Merge Layers.
+   5. All videos.
