@@ -12,7 +12,7 @@
   1. https://www.youtube.com/watch?v=RWaWoQWI4ks
 - U-Net:
   1. https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/  ( Watch the video)
-  2. https://www.kaggle.com/nikhilroxtomar/unet-with-layer-concatenation-in-downblock(sample code)
+  2. https://www.kaggle.com/nikhilroxtomar/unet-with-layer-concatenation-in-downblock  (sample code)
 - Transposed Convolution:  
   1. https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d  ( Clearly Explained )
 
