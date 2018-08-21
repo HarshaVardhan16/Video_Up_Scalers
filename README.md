@@ -17,7 +17,7 @@
   1. https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d  ( Clearly Explained )
 
 
-### Slot1: 18th August to 21st August
+### Slot1: 18th August to 22st August
 1. Alloted Work: 
    1. Paper1 and Paper2.
    2. Upconv.
