@@ -24,3 +24,10 @@
    3. Unet.
    4. Merge Layers.
    5. All videos.
+   
+### Slot2: 23th August to 25st August
+1. Alloted Work: 
+   1. Go through each and every line of the ref codes.
+   2. Do research about video formats and softwares for accessing them.
+   3. Download 1080p videos in required format.
+   4. Think of difficulties, cons and loop holes that may come over.
